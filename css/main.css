@@ -325,6 +325,7 @@ a {text-decoration: none;}
     margin-top: 10px;
 }
 .ab-user-url > a {
+    color: rgba(0,0,0,.55);
     display: inline-block;
     margin-right: 12px;
     cursor: pointer;
